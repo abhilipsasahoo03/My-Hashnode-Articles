@@ -102,7 +102,7 @@ As someone who has gone through this before, I recommend following the "Recogniz
 
 A stitch in time saves nine.
 
-This is similar to reproducing the bug to understand its source and cause. It's difficult to do so if a bug or anomaly, by having ripple effects, produces more bugs whose effects maybe subtle to more serious and damaging.
+This is similar to reproducing the bug to understand its source and cause. It's difficult to do so if a bug or anomaly, by having ripple effects, produces more bugs whose effects maybe subtle to more serious and damaging effects.
 
 Like in any medical condition or illness, recognizing and identifying the signs of burnout during its early stage onset is important, as there will be less damage to recover from.
 
