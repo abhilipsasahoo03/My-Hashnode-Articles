@@ -4,7 +4,7 @@ datePublished: Mon Mar 06 2023 09:08:05 GMT+0000 (Coordinated Universal Time)
 cuid: clewlnijk000l09ldeqzv27jd
 slug: debugging-the-brain-battling-the-burnout-with-error-messages-your-body-is-trying-to-give
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1678093460447/2c96a174-694f-4e8b-a24d-f347427db566.png
-tags: developer, burnout, wemakedevs, debuggingfeb
+tags: developer, burnout, experience, wemakedevs, debuggingfeb
 
 ---
 
@@ -118,7 +118,7 @@ The most vital aspect of reversing the damage caused by burnout is to REACH OUT.
 
 After fixing the bug, it is important to reassure that the existing bug or any other ones do not occur (again). Similarly, resilient measures should be taken to avoid burnout in the future.
 
-Sustenance and persistence are the two sides of resilience. There will be times you won't have the bandwidth to struggle, and that's okay! Giving your body the nourishment and care it deserves, fulfilling its needs is as important as utilising it to achieve your personal needs. Sometimes there's striving and achieving, and other times plainly sustaining and pushing oneself through the day. But the struggle to even sustain shouldn't persist for too long, which otherwise might indicate burnout. Take required steps to manage your stress and keep burnout at bay!
+Sustenance and persistence are the two sides of resilience. There will be times when you won't have the bandwidth to struggle, and that's okay! Giving your body the nourishment and care it deserves plus fulfilling its needs is as important as utilising it to achieve your personal needs. Sometimes there's striving and achieving, and other times plainly sustaining and pushing oneself through the day. But the struggle to even sustain shouldn't persist for too long, which otherwise might indicate burnout. Take required steps to manage your stress and keep burnout at bay!
 
 # How do I keep the burnout at bay?
 
@@ -140,7 +140,7 @@ What worked for me best was the partial combination of The Ivy Lee Method and Po
 
 There are several methods to prioritise your tasks, such as The Eisenhower Matrix, The Ivy Lee Method, Moscow Prioritisation, and time management techniques such as Pomodoro Technique, etc.
 
-Here's a [blog](https://zenkit.com/en/blog/6-task-prioritization-techniques/) that can help you understand prioritisation science in a better way, but for now, we will briefly discuss the only three that worked best for me. (This may differ from person to person.
+Here's a [blog](https://zenkit.com/en/blog/6-task-prioritization-techniques/) that can help you understand prioritisation science in a better way, but for now, we will briefly discuss the only three that worked best for me. However, this may differ from person to person.
 
 • **The Eisenhower Matrix:** This method basically requires you to divide your to-do list into four quarters: Important-Urgent, Not Important-Urgent, Important-Not Urgent and Not Important-Not Urgent. You can divide your tasks accordingly in the order of priority.
 
