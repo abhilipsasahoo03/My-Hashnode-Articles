@@ -4,7 +4,7 @@ datePublished: Sun Mar 19 2023 19:46:42 GMT+0000 (Coordinated Universal Time)
 cuid: clfft6up2000009l552xxfval
 slug: tswizzle-how-taylor-swift-inspired-me-to-create-my-own-tiny-esolang
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1679128721236/e9067712-28a3-46d3-92c2-117435ed8a89.png
-tags: python, development, beginner, esolang, taylor-swift
+tags: python, development, beginner, esolang, wemakedevs
 
 ---
 
