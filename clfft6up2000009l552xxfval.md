@@ -47,15 +47,15 @@ I came across esolangs about a year ago, when I came to know about ArnoldC, an A
 
 I'm a 6th semester CSE undergraduate student who is going to study Compiler Design in the current sem. I do have sound knowledge in Formal Language and Automata, but do not have the experience of implementing it practically in a project. Although, for this one, I decided to set it all aside and step into Swift's shoes, that is, to keep the project small and accomplish it using the simplest of means available.
 
-The biggest dilemma was to choose a programming language that can enhance my experience in designing a toy language like TSwizzle, even with little to no knowledge of the same. When I chose Python, I knew that most of my work was done, then and there. However, there is no perfect tutorial or blog available on internet to guide a total beginner on how and where to start in order to complete the idea of esolang that I had come up with, so I simply began to list different features and implement them one at a time, by taking help from bits and pieces of references from various websites.
+The biggest dilemma was to choose a programming language that can enhance my experience in designing a toy language like TSwizzle, even with little to no knowledge of the same. When I chose Python, I knew that most of my work was done, then and there. However, there is no perfect tutorial or blog available on internet to guide a total beginner on how and where to start in order to execute the idea of esolang that I had come up with successfully, so I simply began to list different features and implement them one at a time, taking help from bits and pieces of references from various tutorial websites when stuck.
 
 ## Creating a virtual environment
 
-I used VSCode for this project. I created a project folder and within that, set up a virtual environment using the command:
+I used VSCode for this project. I first created a workspace folder, then inside that, a project folder and within that, set up a virtual environment using the command:
 
 `python -m venv my_venv`
 
-I then noticed the following dialog:
+I then noticed a similar dialog:
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1679167967340/73bfd38b-08c3-4eea-b644-311340bc82ce.png align="center")
 
@@ -67,7 +67,7 @@ To activate my Python virtual environment in my Windows CMD, I navigated to the 
 
 `my_venv\Scripts\activate.bat`
 
-And, Eureka! My virtual environment is ready for the concert!
+And, Eureka! My virtual environment was ready for the concert!
 
 ## Creating a session
 
@@ -142,6 +142,8 @@ So, I ran the above shown test file and this is how it went:
 
 (Spot my favourite TS Album?)
 
+Always ready for a Taylor Swift concert in my terminal! 🥳
+
 # Conclusion
 
 After tweaking a bit here and there, I managed to add the above mentioned functionalities to the esolang. Currently, the TSwizzle code can only take as input different string and integer values, operate on them and print the value. Other than that, it can clear the terminal screen. Through the interpreter, you can locate your TSwizzle file, run it, find the number of lines of code present in the file, execute and receive the output on the terminal. Plus, I have managed to achieve this much without importing or using any additional package.
@@ -152,4 +154,4 @@ This is Taylor's sign for you to get started with your own tiny esolang without 
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1679254492249/055691ec-299c-4a6f-b7b6-dea512430ef7.gif align="center")
 
-Thank you for reading!
+Thank you for reading! ❤️
