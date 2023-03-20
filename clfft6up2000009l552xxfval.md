@@ -134,6 +134,7 @@ As I have decided to keep this esolang small and simple, till now I've only desi
 | SPEAK NOW OR FOREVER HOLD YOUR &lt;input type&gt; &lt;variable\_1&gt;, &lt;variable\_2&gt; | Takes one or multiple user input. Usually input type is specified along with it followed by the user input, i.e., `SPEAK NOW OR FOREVER HOLD YOUR INVISIBLE STRING TYING ME TO YOU x,y` |
 | ARE WE IN THE CLEAR YET? | Clears screen, whether specified within the file or directly in the terminal. |
 | IF YOU'VE GOT A (condition\_1) I'M JEALOUS OF &lt;statement\_1&gt; BUT IF YOU'RE (condition\_2) THAT'S HONESTLY &lt;statement\_2&gt; CAUSE YOU'RE SO GORGEOUS IT ACTUALLY &lt;statement\_3&gt; | Python's If-Elif-Else equivalent of conditional statements. |
+| COUNTER ALL YOUR QUICK REMARKS ~&gt; | Allows users to insert single-line comments. |
 
 # Demo
 
