@@ -45,7 +45,7 @@ I came across esolangs about a year ago, when I came to know about ArnoldC, an A
 
 # Turning my terminal into The Eras Tour
 
-I'm a 6th semester CSE undergraduate student who is going to study Compiler Design in the current sem. I do have sound knowledge in Formal Language and Automata, but do not have the experience of implementing it practically in a project. Although, for this one, I decided to set it all aside, step into Swift's shoes, that is, keep the project small and accomplish it in the most simplest of ways.
+I'm a 6th semester CSE undergraduate student who is going to study Compiler Design in the current sem. I do have sound knowledge in Formal Language and Automata, but do not have the experience of implementing it practically in a project. Although, for this one, I decided to set it all aside and step into Swift's shoes, that is, to keep the project small and accomplish it using the simplest of means available.
 
 The biggest dilemma was to choose a programming language that can enhance my experience in designing a toy language like TSwizzle, even with little to no knowledge of the same. When I chose Python, I knew that most of my work was done, then and there. However, there is no perfect tutorial or blog available on internet to guide a total beginner on how and where to start in order to complete the idea of esolang that I had come up with, so I simply began to list different features and implement them one at a time, by taking help from bits and pieces of references from various websites.
 
