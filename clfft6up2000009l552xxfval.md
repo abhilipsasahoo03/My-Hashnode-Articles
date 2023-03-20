@@ -133,6 +133,7 @@ As I have decided to keep this esolang small and simple, till now I've only desi
 | INVISIBLE STRING TYING ME TO YOU | Converts user input to string type. Basically an &lt;input\_type&gt;. |
 | SPEAK NOW OR FOREVER HOLD YOUR &lt;input type&gt; &lt;variable\_1&gt;, &lt;variable\_2&gt; | Takes one or multiple user input. Usually input type is specified along with it followed by the user input, i.e., `SPEAK NOW OR FOREVER HOLD YOUR INVISIBLE STRING TYING ME TO YOU x,y` |
 | ARE WE IN THE CLEAR YET? | Clears screen, whether specified within the file or directly in the terminal. |
+| IF YOU'VE GOT A (condition\_1) I'M JEALOUS OF &lt;statement\_1&gt; BUT IF YOU'RE (condition\_2) THAT'S HONESTLY &lt;statement\_2&gt; CAUSE YOU'RE SO GORGEOUS IT ACTUALLY &lt;statement\_3&gt; | Python's If-Elif-Else equivalent of conditional statements. |
 
 # Demo
 
@@ -148,7 +149,7 @@ Always ready for a Taylor Swift concert in my terminal! 🥳
 
 After tweaking a bit here and there, I managed to add the above mentioned functionalities to the esolang. Currently, the TSwizzle code can only take as input different string and integer values, operate on them and print the value. Other than that, it can clear the terminal screen. Through the interpreter, you can locate your TSwizzle file, run it, find the number of lines of code present in the file, execute and receive the output on the terminal. Plus, I have managed to achieve this much without importing or using any additional package.
 
-The project is still under progress, as I'm aiming to add more functionalities such as conditional statements and loops, and improve code readability, therefore I'll keep you updated with a series of blog posts (and I'll attach GitHub link soon!)
+The project is still under progress, as I'm aiming to add more functionalities such as loops, and improve code readability, therefore I'll keep you updated with a series of blog posts (and I'll attach GitHub link soon!)
 
 This is Taylor's sign for you to get started with your own tiny esolang without waiting to rely on tutorials or guides.
 
