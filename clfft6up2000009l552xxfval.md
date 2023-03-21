@@ -94,11 +94,17 @@ What is your favourite Taylor Swift era? 1989
 
 To make the session a bit more interesting and welcoming, I used funky texts along with the text art that I generated from my favourite pictures of Taylor Swift and her album titles.
 
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1679432216359/b6127b0c-6510-4b64-97bd-2b28031ea47b.jpeg align="center")
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1679432237949/947faa4f-6c27-429f-a34c-9483a9177c94.jpeg align="center")
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1679432257914/f7295b07-62de-4cf9-b8f2-1c6782067a50.jpeg align="center")
+
 ## Making sure my interpreter recognizes only `.tswizzle` type files
 
 So I decided to write a piece of code that would make my interpreter recognize and execute only those files that end with `.tswizzle` extension. I also customized the error message that would show up when the user tries to run a file of any other type.
 
-I also dedicated a Taylor Swift lyric as a command to run the file, so when I'd run a `test.tswizzle` file, I'll have to do something like this:
+I also dedicated a Taylor Swift lyric as a command to run the file, so when I'd run a `test.tswizzle` file that is present inside the test folder, I'll have to do something like this:
 
 ```plaintext
 1989 (Taylor's Version) >>> DARLING, LET'S RUN test.tswizzle
@@ -106,9 +112,9 @@ I also dedicated a Taylor Swift lyric as a command to run the file, so when I'd 
 
 The `test.tswizzle` file looks like below:
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1679251479792/6365145c-518d-42f9-81c6-88d7c013dc35.jpeg align="center")
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1679432080373/9ccbe47e-af21-446d-a815-9f8002948b79.jpeg align="center")
 
-What the program does is that it takes two integer values and prints its sum.
+What the program does is that it takes two integer values x and y and prints its sum. If the value of x is 12, "Hello" is printed, otherwise nothing happens.
 
 ## How does my interpreter work?
 
@@ -128,7 +134,7 @@ As I have decided to keep this esolang small and simple, till now I've only desi
 | --- | --- |
 | DARLING, LET'S RUN &lt;filename.tswizzle&gt; | Executes filename.tswizzle file. |
 | GOODBYE GOODBYE GOODBYE | Marks the EOF when specified within the file, but when specified in the terminal directly, it acts as `pass` keyword. |
-| I JUST WANNA SHOW YOU &lt;message&gt; | Prints &lt;message&gt; on the output screen/terminal where &lt;message&gt; can be anything the user wants to print, i.e., string, numbers, etc. Example: `I JUST WANNA SHOW YOU "Hello World"` |
+| AND I'LL SHOW YOU EVERY VERSION OF &lt;message&gt; TONIGHT | Prints &lt;message&gt; on the output screen/terminal where &lt;message&gt; can be anything the user wants to print, i.e., string, numbers, etc. Example: `I JUST WANNA SHOW YOU "Hello World"` |
 | NUMBER ON ME | Converts user input to number type. Basically an &lt;input\_type&gt;. |
 | INVISIBLE STRING TYING ME TO YOU | Converts user input to string type. Basically an &lt;input\_type&gt;. |
 | SPEAK NOW OR FOREVER HOLD YOUR &lt;input type&gt; &lt;variable\_1&gt;, &lt;variable\_2&gt; | Takes one or multiple user input. Usually input type is specified along with it followed by the user input, i.e., `SPEAK NOW OR FOREVER HOLD YOUR INVISIBLE STRING TYING ME TO YOU x,y` |
@@ -140,9 +146,9 @@ As I have decided to keep this esolang small and simple, till now I've only desi
 
 So, I ran the above shown test file and this is how it went:
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1679252003384/8767cd1a-0b7c-49c4-902f-767a220df9d9.jpeg align="center")
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1679432040886/92660757-77aa-4cf4-ab59-964b8d9d0171.jpeg align="center")
 
-(Spot my favourite TS Album?)
+(Spot your favourite TS Album?)
 
 Always ready for a Taylor Swift concert in my terminal! 🥳
 
@@ -150,7 +156,9 @@ Always ready for a Taylor Swift concert in my terminal! 🥳
 
 After tweaking a bit here and there, I managed to add the above mentioned functionalities to the esolang. Currently, the TSwizzle code can only take as input different string and integer values, operate on them and print the value. Other than that, it can clear the terminal screen. Through the interpreter, you can locate your TSwizzle file, run it, find the number of lines of code present in the file, execute and receive the output on the terminal. Plus, I have managed to achieve this much without importing or using any additional package.
 
-The project is still under progress, as I'm aiming to add more functionalities such as loops, and improve code readability, therefore I'll keep you updated with a series of blog posts (and I'll attach GitHub link soon!)
+The project is still under progress, as I'm aiming to add more functionalities such as loops, and improve code readability, therefore I'll keep you updated with a series of blog posts.
+
+Here's the GitHub link: https://github.com/abhilipsasahoo03/TSwizzle
 
 This is Taylor's sign for you to get started with your own tiny esolang without waiting to rely on tutorials or guides.
 
