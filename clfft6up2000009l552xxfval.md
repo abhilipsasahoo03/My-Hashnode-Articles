@@ -134,7 +134,7 @@ As I have decided to keep this esolang small and simple, till now I've only desi
 | --- | --- |
 | DARLING, LET'S RUN &lt;filename.tswizzle&gt; | Executes filename.tswizzle file. |
 | GOODBYE GOODBYE GOODBYE | Marks the EOF when specified within the file, but when specified in the terminal directly, it acts as `pass` keyword. |
-| AND I'LL SHOW YOU EVERY VERSION OF &lt;message&gt; TONIGHT | Prints &lt;message&gt; on the output screen/terminal where &lt;message&gt; can be anything the user wants to print, i.e., string, numbers, etc. Example: `I JUST WANNA SHOW YOU "Hello World"` |
+| AND I'LL SHOW YOU EVERY VERSION OF &lt;message&gt; TONIGHT | Prints &lt;message&gt; on the output screen/terminal where &lt;message&gt; can be anything the user wants to print, i.e., string, numbers, etc. Example: `AND I'LL SHOW YOU EVERY VERSION OF "Hello World" TONIGHT` |
 | NUMBER ON ME | Converts user input to number type. Basically an &lt;input\_type&gt;. |
 | INVISIBLE STRING TYING ME TO YOU | Converts user input to string type. Basically an &lt;input\_type&gt;. |
 | SPEAK NOW OR FOREVER HOLD YOUR &lt;input type&gt; &lt;variable\_1&gt;, &lt;variable\_2&gt; | Takes one or multiple user input. Usually input type is specified along with it followed by the user input, i.e., `SPEAK NOW OR FOREVER HOLD YOUR INVISIBLE STRING TYING ME TO YOU x,y` |
