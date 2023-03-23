@@ -154,7 +154,7 @@ Always ready for a Taylor Swift concert in my terminal! 🥳
 
 # Conclusion
 
-After tweaking a bit here and there, I managed to add the above mentioned functionalities to the esolang. Currently, the TSwizzle code can only take as input different string and integer values, operate on them and print the value. Other than that, it can clear the terminal screen. Through the interpreter, you can locate your TSwizzle file, run it, find the number of lines of code present in the file, execute and receive the output on the terminal. Plus, I have managed to achieve this much without importing or using any additional package.
+After tweaking a bit here and there, I managed to add the above mentioned functionalities to the esolang. Currently, the TSwizzle code can take different string and integer values as values, operate on them, print the value, and allow conditional execution of a block of code through conditional statements. Other than that, it can clear the terminal screen. Through the interpreter, you can locate your TSwizzle file, run it, find the number of lines of code present in the file, execute and receive the output on the terminal. Plus, I have managed to achieve this much without importing or using any additional package.
 
 The project is still under progress, as I'm aiming to add more functionalities such as loops, and improve code readability, therefore I'll keep you updated with a series of blog posts.
 
