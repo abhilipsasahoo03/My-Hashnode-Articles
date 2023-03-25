@@ -4,7 +4,7 @@ datePublished: Sat Mar 25 2023 20:28:27 GMT+0000 (Coordinated Universal Time)
 cuid: clfofbnd7000109l4fieack3t
 slug: want-to-play-or-slay-the-esolang-game-choose-your-python-parser-package
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1679775958983/e8a1daf7-dfb8-4e83-8a07-eb5986ea1759.png
-tags: python, development, esolang, wemakedevs
+tags: python, development, esolang, 2articles1week, wemakedevs
 
 ---
 
@@ -37,11 +37,9 @@ So for example, if we have a line of code that says:
 
 `x = b + y * z`
 
-Then, after lexical analysis, we end up with the following tokens: &lt;id, x&gt; &lt;=&gt;, &lt;id, b&gt;, &lt;+&gt;, &lt;id, y&gt;, &lt;\*&gt;, &lt;id, z&gt;
+Then, after lexical analysis, we end up with the following tokens: &lt;id, x&gt; &lt;=&gt;, &lt;id, y&gt;, &lt;\*&gt;, &lt;id, z&gt;, &lt;+&gt;, &lt;id, b&gt;
 
 Next, we get the below syntax tree:
-
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1679776777036/d0a8c2e5-151e-427f-acb8-6238ac914a3b.png align="center")
 
 Without diving any deeper into the background details, let us discuss about PLY and SLY.
 
