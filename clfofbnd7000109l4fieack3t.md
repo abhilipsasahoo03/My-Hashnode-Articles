@@ -117,7 +117,7 @@ There are some differences between the two packages from compiler design standpo
 
 The main goal of PLY is to stay fairly faithful to the way in which traditional lex/yacc tools work.
 
-PLY uses a bottom-up parsing algorithm known as LALR(1) while SLY uses a more powerful parsing algorithm known as LR(1) than helps in handling wider range of grammars.
+PLY uses a bottom-up parsing algorithm known as LALR(1) while SLY uses a more powerful parsing algorithm known as LR(1) that helps in handling wider range of grammars.
 
 This can help you implement wider range of operations and statements in your esolang.
 
@@ -129,7 +129,7 @@ SLY has a simpler and more intuitive API, and it's documentation is more extensi
 
 ## Speed and Memory Efficiency
 
-PLY is faster and more memory efficient than SLY. Speed and Memory efficiency has been traded for programmer's convenience in designing esolang.
+PLY is faster and more memory efficient than SLY. Speed and Memory efficiency have been traded for programmer's convenience in designing esolang using SLY.
 
 This happens because PLY generates optimized C code for both parser as well as lexer. However, SLY generates purely Python code for the same.
 
