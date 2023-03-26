@@ -41,6 +41,8 @@ Then, after lexical analysis, we end up with the following tokens: &lt;id, x&gt;
 
 Next, we get the below syntax tree:
 
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1679827751564/9b6c026d-ddd0-4689-8d9b-1c04bbea635d.png align="center")
+
 Without diving any deeper into the background details, let us discuss about PLY and SLY.
 
 # Python Parsing Packages
