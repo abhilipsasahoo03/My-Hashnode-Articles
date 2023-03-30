@@ -37,7 +37,7 @@ So for example, if we have a line of code that says:
 
 `x = b + y * z`
 
-Then, after lexical analysis, we end up with the following tokens: &lt;id, x&gt; &lt;=&gt;, &lt;id, y&gt;, &lt;\*&gt;, &lt;id, z&gt;, &lt;+&gt;, &lt;id, b&gt;
+Then, after lexical analysis, we end up with the following tokens: &lt;id, x&gt; &lt; = &gt;, &lt;id, y&gt;, &lt; \* &gt;, &lt;id, z&gt;, &lt; + &gt;, &lt;id, b&gt;
 
 Next, we get the below syntax tree:
 
