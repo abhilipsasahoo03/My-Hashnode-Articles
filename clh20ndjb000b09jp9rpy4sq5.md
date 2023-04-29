@@ -10,7 +10,7 @@ tags: algorithms, programming-blogs, coding, esolang
 
 ---
 
-Hi everyone! I'm back with another blog on Esolang. Diving into this topic has been a great journey for me, that I have been sharing with you since I started the **Esolang** series. Since then, I have shared with you my attempts of creating *TSwizzle* without using any concrete grammar or lexer and parser packages. Then, I covered why Python is the best programming language for beginners to begin their Esolang journey and implement certain concepts from Compiler Design.
+Hi everyone! I'm back with another blog on Esolang. Diving into this topic has been a great journey for me, that I have been sharing with you since I started the **Esolangs** series. Since then, I have shared with you my attempts of creating *TSwizzle* without using any concrete grammar or lexer and parser packages. Then, I covered why Python is the best programming language for beginners to begin their Esolang journey and implement certain concepts from Compiler Design.
 
 However, recently the professors in my college assigned us (the students of 6th semester batch) the task to present a thoroughly researched seminar on any interesting topic related to computer science: whether it be one of the new & emerging technologies or a journal article/research paper that interests you, etc. Many of my friends chose topics like Quantum Computing, Metaverse, Touchless Technology and more. Upon being approached by a confused friend on what topic to choose, I even suggested that Fog Computing (and perhaps a detailed comparison with Haze Computing) could be an intriguing theme.
 
@@ -108,7 +108,7 @@ To be honest, I only cherry-picked a few portions from the paper that felt relev
 
 [Language Without Code: Intentionally Unusable, Uncomputable, or Conceptual Programming Languages](https://drive.google.com/file/d/1HCaa04Dyj_kFilALTR-584cLhg8FOsB2/view?usp=drivesdk)
 
-So, this was all about the inspiration I drew from the paper. But, I also showcased my own work that I did on TSwizzle including the blog that I wrote on it in the Esolang series, the challenges I faced in implementing loops without using any concrete grammar and how one can overcome it by using external packages provided by Python: PLY and SLY, which I had previously covered in my Esolang series.
+So, this was all about the inspiration I drew from the paper. But, I also showcased my own work that I did on TSwizzle including the blog that I wrote on it in the **Esolangs** series, the challenges I faced in implementing loops without using any concrete grammar and how one can overcome it by using external packages provided by Python: PLY and SLY, which I had previously covered in my **Esolangs** series.
 
 ### ArnoldC
 
