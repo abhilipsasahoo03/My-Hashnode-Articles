@@ -1,14 +1,14 @@
 ---
-title: "ESOLANG 101: Cracking the Code of a Codeless language
-
-Introduction"
+title: "ESOLANG 101: Cracking the Code of a Codeless language"
 datePublished: Sat Apr 29 2023 13:26:08 GMT+0000 (Coordinated Universal Time)
 cuid: clh20ndjb000b09jp9rpy4sq5
-slug: esolang-101-cracking-the-code-of-a-codeless-language-introduction
+slug: esolang-101-cracking-the-code-of-a-codeless-language
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1682747461616/dff34dca-603e-4d6c-865f-9ff5fc55feb1.jpeg
 tags: algorithms, programming-blogs, coding, esolang
 
 ---
+
+# Introduction
 
 Hi everyone! I'm back with another blog on Esolang. Diving into this topic has been a great journey for me, that I have been sharing with you since I started the **Esolangs** series. Since then, I have shared with you my attempts of creating *TSwizzle* without using any concrete grammar or lexer and parser packages. Then, I covered why Python is the best programming language for beginners to begin their Esolang journey and implement certain concepts from Compiler Design.
 
