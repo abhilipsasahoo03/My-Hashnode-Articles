@@ -118,4 +118,12 @@ My inner pop-culture enthusiast bagged a prize in a Pop-culture Trivia.
 
 That's all about my 25% of 2023.
 
+# Tips
+
+• The longer I spent my time as a student involved in technical field, I realised that apart from scholarships and diversity perks, we lack proper resources that can imbibe the curiousity in young girls in schools towards Tech. This can help disrupt the disparity from the root. Teaching young girls to code, introducing them to cutting edge technologies and encouraging them to ideate and innovate to solve problems that their own community faces, at an early age, can solve this problem to a certain extent. Hackathons can bridge that gap.
+
+• We must set ourselves as good role models for young women to look up to and draw inspiration from.
+
+Women and non-binary folks should be provided opportunities not only on the basis of their gender solely, but also because they deserve that opportunity every bit despite their gender, and only skills can help them prove that to the world.
+
 Thank you for reading!
