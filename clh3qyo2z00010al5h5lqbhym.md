@@ -4,7 +4,7 @@ datePublished: Sat Apr 29 2023 18:36:58 GMT+0000 (Coordinated Universal Time)
 cuid: clh3qyo2z00010al5h5lqbhym
 slug: reflections-on-my-first-quarter-of-2023-journey-as-a-womanintech
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1682881040590/909eafdd-a194-4528-86cd-f1c4cf7aeb64.jpeg
-tags: community, womenintech, wemakedevs, cocodeblogs
+tags: community, events, womenwhotech, wemakedevs, cocodeblogs
 
 ---
 
