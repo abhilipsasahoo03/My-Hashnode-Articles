@@ -85,13 +85,15 @@ April was also indeed a productive month for me. I won the Special Track Prize f
 
 %[https://twitter.com/WeMakeDevs/status/1642202174493974529?t=zbt-6izqTaNJ9lUCHS1kEQ&s=19] 
 
-Then, I also got to attend G20 precursor event held in CSIR IMMT Bhubaneswar on Transforming Logistics For Coastal Economies.
+Then, I also got to attend G20 precursor event held in CSIR IMMT Bhubaneswar on Transforming Logistics For Coastal Economies. The main motto behind the event was to encourage the future stakeholders of the country is to skill, reskill and upskill.
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1682879271366/eeebf0e2-04bb-49c4-a082-90c0d998712d.jpeg align="center")
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1682879321485/7fb70a85-4106-48ea-a45e-2364e235783b.jpeg align="center")
 
 I also got to attend the Exhibition/Expo on cutting-edge technologies meeting sustainability.
+
+The G20 FutureOfWork Expo showcased India's commitment to leverage technology for high quality of education and training. The exhibition portrayed a shining example of the country's efforts to prepare today's youth for the challenges of tomorrow.
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1682879529474/18cb6cf9-39a6-4b48-9520-4630ae0223d2.jpeg align="center")
 
