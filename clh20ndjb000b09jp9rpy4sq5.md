@@ -1,5 +1,5 @@
 ---
-title: "ESOLANG 101: Cracking the Code of a Codeless language"
+title: "ESOLANG 101: Cracking the Code of a Codeless Language ✨"
 datePublished: Sat Apr 29 2023 13:26:08 GMT+0000 (Coordinated Universal Time)
 cuid: clh20ndjb000b09jp9rpy4sq5
 slug: esolang-101-cracking-the-code-of-a-codeless-language
