@@ -88,6 +88,8 @@ April was also indeed a productive month for me. I won the Special Track Prize f
 
 %[https://twitter.com/WeMakeDevs/status/1642202174493974529?t=zbt-6izqTaNJ9lUCHS1kEQ&s=19] 
 
+In April, I also got my first paid gig as a technical blogger and received Rs 1800. 🥳 Firsts are always special!
+
 Then, I also got to attend G20 precursor event held in CSIR IMMT Bhubaneswar on Transforming Logistics For Coastal Economies. The main motto behind the event was to encourage the future stakeholders of the country is to skill, reskill and upskill.
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1682879271366/eeebf0e2-04bb-49c4-a082-90c0d998712d.jpeg align="center")
