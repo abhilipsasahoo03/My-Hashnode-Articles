@@ -1,6 +1,6 @@
 ---
 title: "Reflections on My First Quarter of 2023: Journey as a #WomanInTech"
-datePublished: Sun Apr 30 2023 18:30:31 GMT+0000 (Coordinated Universal Time)
+datePublished: Sat Apr 29 2023 18:36:58 GMT+0000 (Coordinated Universal Time)
 cuid: clh3qyo2z00010al5h5lqbhym
 slug: reflections-on-my-first-quarter-of-2023-journey-as-a-womanintech
 tags: womenintech, wemakedevs, cocodeblogs
