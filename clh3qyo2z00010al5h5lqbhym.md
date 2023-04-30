@@ -36,6 +36,8 @@ Since then, my journey has been quite steady. There are times when impostor synd
 
 During my journey, I also came across a new aspect of programming languages: those of experiential and conceptual types, basically Esolangs. I also read a couple of research papers on this topic, gave a talk in my class and wrote blogs basing on it, that you can find in my [Esolangs](https://abelisaurus.hashnode.dev/series/esolangs) series.
 
+Honestly, I'm just trying to be the best version of myself everyday, and that's all that matters for now.
+
 # My first quarter of 2023 (unpacking 25%...)
 
 Let me talk about how my journey has been thus far:
