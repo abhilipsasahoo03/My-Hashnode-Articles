@@ -92,3 +92,23 @@ Then, I also got to attend G20 precursor event held in CSIR IMMT Bhubaneswar on 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1682879321485/7fb70a85-4106-48ea-a45e-2364e235783b.jpeg align="center")
 
 I also got to attend the Exhibition/Expo on cutting-edge technologies meeting sustainability.
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1682879529474/18cb6cf9-39a6-4b48-9520-4630ae0223d2.jpeg align="center")
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1682879547152/d419a3a0-5154-4cae-bedc-c7492a859c72.jpeg align="center")
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1682879571802/3c94dfde-18ee-4c0d-8351-88a9c6917f00.jpeg align="center")
+
+And, as a cherry on the cake, I recently got to attend the workshop on Leadership and Entrepreneurship for Women in Tech workshop organised by GDG Bhubaneswar and WTM Bhubaneswar at IIIT Bhubaneswar.
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1682879692345/c5811d8f-977f-4ac4-96b9-600e78bf61db.jpeg align="center")
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1682879710382/8826c5e5-994c-4f62-944b-9bc1f9c9e6dc.jpeg align="center")
+
+My inner pop-culture enthusiast bagged a prize in a Pop-culture Trivia.
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1682879748430/86cb0942-c8fd-4749-a184-1bcbc6f315a4.jpeg align="center")
+
+That's all about my 25% of 2023.
+
+Thank you for reading!
