@@ -90,6 +90,8 @@ April was also indeed a productive month for me. I won the Special Track Prize f
 
 In April, I also got my first paid gig as a technical blogger and received Rs 1800. 🥳 Firsts are always special!
 
+I also received The Dan Kohn Scholarship for VIRTUAL attendance of KubeCon + CloudNativeCon Europe 2023, that took place April 19 - 21, 2023. KubeCon is CNCF's flagship conference that gathers technologists and enthusiasts from leading open-source communities and cloud native communities for education, information and learning.
+
 Then, I also got to attend G20 precursor event held in CSIR IMMT Bhubaneswar on Transforming Logistics For Coastal Economies. The main motto behind the event was to encourage the future stakeholders of the country is to skill, reskill and upskill.
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1682879271366/eeebf0e2-04bb-49c4-a082-90c0d998712d.jpeg align="center")
