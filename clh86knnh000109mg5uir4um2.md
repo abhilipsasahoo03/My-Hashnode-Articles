@@ -14,9 +14,9 @@ So, we finally reached to the last day of the Bootcamp. This session focused on 
 
 James Q Quick is a JavaScript developer, Keynote Speaker, Teacher, Content Creator, and YouTuber.
 
-He began with his introduction and past experience of how he had initially never put thought into being a Tech Evangelist, but eventually got pulled into it, thereby realising it's a great way to build personal brand, hain exposure and money.
+He began with his introduction and past experience of how he had initially never put thought into being a Tech Evangelist, but eventually got pulled into it, thereby realising it's a great way to build personal brand, gain exposure and money.
 
-This blog will basically majorly focus on the Q&A session that were asked during the entire session.
+This blog will majorly focus on the Q&A session, a brief summary of answer to each question that was asked during the entire session.
 
 # Q&A
 
@@ -58,7 +58,6 @@ James gives a list of tools that he personally uses:
 
 * FrontMatter CMS plugin to help manage your static sites.
     
-
 * Trackers to keep track of ideas for content using Notion, so you can refer to them while you're out of inspiration.
     
 * AI Tools to leverage your knowledge and inspiration or even suggest outlines or bullet points for a particular topic.
