@@ -37,7 +37,7 @@ Nader introduced us to different ways of how we can profit off of our content, n
 
 🔹He also explained how to optimize a profile to cater to a time-constrained audience.
 
-We have all heard of the seven-second rule of how recruiters skim through the resume of a candidate to scan the most important information. In an era, where most of the content se consume on social media is short form and always auto-rolling, it is becoming rather difficult to keep the audience on their toes with the long-form content. So it is important to optimise your profile, website/portfolio and your content in a manner that doesn't take too much time away from the audience, and doesn't leave them with a feeling of "time spent unworthily".
+We have all heard of the seven-second rule of how recruiters skim through the resume of a candidate to scan the most important information. In an era, where most of the content that is consumed on social media is short form and always auto-rolling, it is becoming rather difficult to keep the audience on their toes with the long-form content. So it is important to optimise your profile, website/portfolio and your content in a manner that doesn't take too much time away from the audience, and doesn't leave them with a feeling of "time spent unworthily".
 
 Point to remember: Bullets over paragraphs, anytime. Bullet points make each of your point precise and your content less congested than usual, which is a great way to retain attention.
 
