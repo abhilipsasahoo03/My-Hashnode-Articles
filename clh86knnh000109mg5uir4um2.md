@@ -4,7 +4,7 @@ datePublished: Wed May 03 2023 20:58:36 GMT+0000 (Coordinated Universal Time)
 cuid: clh86knnh000109mg5uir4um2
 slug: hashnode-bootcamp-2023-the-final-day-ama-session-on-freelance-writing-opportunities-for-developers
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1683144267558/adf4baa6-5736-4ee4-a9b0-269f821996ee.jpeg
-tags: hashnodebootcamp
+tags: 2articles1week, hashnodebootcamp
 
 ---
 
