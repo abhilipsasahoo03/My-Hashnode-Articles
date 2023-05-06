@@ -4,7 +4,7 @@ datePublished: Wed May 03 2023 19:57:21 GMT+0000 (Coordinated Universal Time)
 cuid: clh84dvqv000c09li8d0h7qre
 slug: hashnode-bootcamp-2023-day-2-a-summary-on-building-personal-brand-on-social-media-monetizing-it
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1683138573603/c31e5fea-4d77-458c-ae3c-42722b5f7bb4.jpeg
-tags: hashnodebootcamp, personalbrand
+tags: 2articles1week, hashnodebootcamp, personalbrand
 
 ---
 
